@@ -1,0 +1,131 @@
+h1 {
+    position: absolute;
+    font-size: 6vw;
+    background-color: gold;
+    padding-top: 4vw;
+    padding-bottom: 4vw;
+    z-index: 0;
+    width: 99%;
+    text-shadow: 0.2vw 0.2vw 0.2vw rgb(84, 77, 100);
+}
+
+#logo {
+    position: absolute;
+    width: 15%;
+    margin-left: 5%;
+    margin-top: 11vw;
+    z-index: 1;
+    border-radius: 50%;    
+    border: 0.3vw solid gold;
+}
+
+body {
+    background-color: rgb(97, 95, 102);
+}
+
+#renova {
+    position: absolute;
+    z-index: 2;
+    margin-top: 14vw;
+    margin-left: 46.5vw;
+    font-size: 3vw;
+}
+
+#cabecera {
+    position: absolute;
+    width: 18%;
+    margin-left: 77%;
+    margin-top: 1.8vw;
+    z-index: 1;
+    border-radius: 15%;    
+    border: 0.3vw solid gold;
+    transform: rotate(-10deg);
+}
+
+#menu {
+    position: absolute;
+    margin-top: 20.5vw;
+    font-size: 2vw;
+    margin-left: 22vw;
+}
+
+.link {
+    text-decoration: none;
+    color: gold;
+}
+
+.nosotros {
+    font-size: 1.5vw;
+    text-align: justify;
+    position: absolute;
+    margin-left: 5vw;
+    margin-right: 5vw;
+    margin-top: 30vw;
+    color: rgb(255, 225, 127);
+    border-radius: 15%;
+}
+
+.muestra {
+    margin-top: 2.5vw;
+    width: 30%;
+    float: left;
+    border-radius: 8%;    
+    border: 1px solid gold;
+}
+
+#texto {
+    margin-left: 30vw;
+}
+
+#promos {
+    position: absolute;
+    margin-top: 20.5vw;
+    font-size: 2vw;
+    margin-left: 22vw;
+}
+
+#sorteo1 {
+    margin-top: 60vw;
+}
+
+#sorteo2 {
+    margin-left: 4vw;
+}
+
+#sorteo3 {
+    margin-left: 4vw;
+}
+
+#google {
+    margin-top: 3vw;
+    width: 90%;
+    height: 30vw;
+    margin-left: 5%;
+}
+
+#sucursales {
+    margin-top: 100vw;
+    margin-left: 5vw;
+    color: rgb(255, 225, 127);
+}
+
+form {
+    color: gold;
+    font-size: 2vw;
+}
+
+fieldset {    
+    border: 2px solid gold;
+    margin-left: 5%;    
+    width: 87%;
+    padding: 2vw;
+    margin-bottom: 5vw;
+}
+
+#copy {
+    color: gold;
+    text-align: center;
+    font-size: 1.5vw;
+    margin-bottom: 2vw;
+}
+
