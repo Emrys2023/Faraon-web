@@ -66,7 +66,7 @@ body {
 }
 
 .muestra {
-    margin-top: 2.5vw;
+    margin-top: 2vw;
     width: 28%;
     float: left;
     border-radius: 8%;    
@@ -75,25 +75,25 @@ body {
 
 #texto {
     margin-left: 30vw;
+    margin-right: 5vw;
 }
 
 #promos {
     position: absolute;
-    margin-top: 20.5vw;
-    font-size: 2vw;
-    margin-left: 22vw;
+    margin-top: -6vw;
+    font-size: 2.5vw;
 }
 
 #sorteo1 {
-    margin-top: 60vw;
+    margin-top: 75vw;
 }
 
 #sorteo2 {
-    margin-left: 4vw;
+    margin-left: 6vw;
 }
 
 #sorteo3 {
-    margin-left: 4vw;
+    margin-left: 6vw;
 }
 
 #google {
@@ -105,7 +105,7 @@ body {
 
 #sucursales {
     font-size: 2.5vw;
-    margin-top: 100vw;
+    margin-top: 105vw;
     margin-left: 5vw;
     color: rgb(255, 225, 127);
 }
